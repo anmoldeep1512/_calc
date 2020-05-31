@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeCalEqn">32sp</dimen>
+    <dimen name="textSizeCalOut">24sp</dimen>
+    <dimen name="sizeIcon">35sp</dimen>
+    <dimen name="textSizeInputEl">24sp</dimen>
+</resources>
